@@ -13,11 +13,11 @@ define(
 );
 // URL Root
 define(
-    'URLROOT', 'http://localhost:8888/MVC-dnlgrs'
+    'URLROOT', ''
 );
 // Site Name
 define(
-    'SITENAME', 'MVC dnlgrs'
+    'SITENAME', 'Quizzone'
 );
 
 ?>
